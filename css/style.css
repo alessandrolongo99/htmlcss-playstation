@@ -1,9 +1,15 @@
-.ms_height_10{
-    height: 10px;
+img{
+    width: 100%;
+    display: block;
 }
 
-.ms_mt_84{
-    margin-top: 84px;
+.ms_height_10{
+    height: 10px;
+    width: 55px;
+}
+
+.ms_mt_main{
+    margin-top: 92px;
 }
 
 .ms_jumbo{
