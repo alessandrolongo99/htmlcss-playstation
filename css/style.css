@@ -30,6 +30,10 @@ img {
     font-size: 12px;
 }
 
+.ms_fs_15 {
+    font-size: 15px;
+}
+
 .ms_two {
     background-image: url('../img/it-takes-two-hero-banner-desktop.jpg');
     background-position: top;
