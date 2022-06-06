@@ -26,6 +26,10 @@ img{
     font-size: 10px;
 }
 
+.ms_fs_12{
+    font-size: 12px;
+}
+
 @media screen and (min-width: 576px) {
     .ms_sm_height{
         height: 550px;
