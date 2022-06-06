@@ -1,3 +1,31 @@
-.height_10{
+.ms_height_10{
     height: 10px;
+}
+
+.ms_mt_84{
+    margin-top: 84px;
+}
+
+.ms_jumbo{
+    background-image: url('../img/jumbo-bg.png');
+    background-position: top;
+    background-size: cover;
+}
+
+.ms_height{
+    height: 350px;
+}
+
+.ms_fs_10{
+    font-size: 10px;
+}
+
+@media screen and (min-width: 576px) {
+    .ms_sm_height{
+        height: 550px;
+    }
+
+    .ms_fs_sm_16{
+        font-size: 16px;
+    }
 }
