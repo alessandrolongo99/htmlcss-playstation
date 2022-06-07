@@ -44,6 +44,18 @@ img {
     height: auto;
 }
 
+.ms_bg_darkgrey{
+    background-color: #bebcbb;
+}
+
+.ms_width_60{
+    width: 60%;
+}
+
+.ms_fillcontent{
+    width: fit-content;
+}
+
 @media screen and (min-width: 576px) {
     .ms_sm_height {
         height: 550px;
