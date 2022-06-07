@@ -8,6 +8,28 @@ img {
     width: 55px;
 }
 
+.dropdown-menu.ms_100vw {
+    width: 100vw;
+    border: 0;
+    border-radius: 0;
+    top: 64px;
+    text-align: center;
+}
+
+.ms_liststyle {
+    list-style-type: none;
+    padding-right: 30px;
+}
+
+ul.d-flex.justify-content-center li::before {
+    content: "\2022";
+    color: #0070d1;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+
 .ms_mt_main {
     margin-top: 92px;
 }
@@ -73,7 +95,7 @@ img {
     width: fit-content;
 }
 
-.ms_psfooter{
+.ms_psfooter {
     max-width: 50px;
 }
 
@@ -84,7 +106,7 @@ img {
     list-style-type: none;
 }
 
-.ms_sie{
+.ms_sie {
     width: 33%;
 }
 
