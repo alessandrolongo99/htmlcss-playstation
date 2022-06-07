@@ -48,20 +48,44 @@ img {
     height: auto;
 }
 
-.ms_bg_darkgrey{
+.ms_bg_darkgrey {
     background-color: #bebcbb;
 }
 
-.ms_bg_darkblue{
+.ms_bg_darkblue {
     background-color: #161c3b;
 }
 
-.ms_width_60{
+.ms_bg_blue {
+    background-color: #00439c;
+}
+
+.ms_width_60 {
     width: 60%;
 }
 
-.ms_fillcontent{
+.language {
+    width: 16px;
+    height: 16px;
+}
+
+.ms_fillcontent {
     width: fit-content;
+}
+
+.ms_psfooter{
+    max-width: 50px;
+}
+
+.ms_ulreset {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    list-style-type: none;
+}
+
+.ms_sie{
+    width: 33%;
 }
 
 @media screen and (min-width: 576px) {
